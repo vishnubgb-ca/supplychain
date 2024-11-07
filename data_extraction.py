@@ -7,7 +7,7 @@ def connect_to_s3_and_load_data():
     # Get the credentials from environment variables
     aws_access_key_id = os.getenv('aws_access_key_id')
     aws_secret_access_key = os.getenv('aws_secret_access_key')
-    bucket = os.getenv('bucket')
+    bucket = os.getenv('bucket-name')
     region = os.getenv('region')
     key = os.getenv('key')
 
