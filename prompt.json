@@ -1,0 +1,5 @@
+{
+  "Data_Analysis": "Write a Python script to analyze a dataset using pandas, including extracting the first five and last five rows, generating a summary of statistical data, obtaining a data frame summary, and checking for missing values.",
+  "Data_Preprocess": "Write Python code to remove the missing and duplicate values from the data using pandas.",
+  "Feature_Engineering": "Implement a Python program that leverages the pandas library to transform a DataFrame by employing various feature engineering techniques, including label encoding all the categorical features, remove the outliers, remove a feature and balance the data "
+}
