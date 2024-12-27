@@ -37,4 +37,5 @@ def transform_data(df):
 df = pd.read_csv("data.csv")
 df = transform_data(df)
 print("Transformed data:", df)
+df.to_csv("cleaned_data.csv")
 
